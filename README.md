@@ -84,3 +84,8 @@
 - [TableConvert](https://tableconvert.com/) - 强大的表格转换工具，HTML转换SQL、CSV、Markdown、SQL、JSON、LaTeX和Text格式
 - [carbon.now.sh](https://carbon.now.sh/) - Create and share beautiful images of your source code
 
+
+## Other
+
+- [PanDownload](https://www.baiduwp.com/) - 百度网盘资源下载链接提取神器
+
